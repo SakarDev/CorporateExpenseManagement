@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+
+
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="400dp"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp">
+
+        <EditText
+            android:id="@+id/editTextEmailLogin"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_margin="10dp"
+            android:drawableLeft="@drawable/email"
+            android:drawablePadding="8dp"
+            android:ems="10"
+            android:hint="Email"
+            android:inputType="textEmailAddress" />
+
+        <EditText
+            android:id="@+id/editTextPasswordLogin"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_margin="10dp"
+            android:drawableLeft="@drawable/ic_password"
+            android:drawablePadding="8dp"
+            android:ems="10"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:minHeight="48dp" />
+
+        <CheckBox
+            android:id="@+id/checkBoxShowPass"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_margin="10dp"
+            android:text="Show password" />
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_margin="10dp"
+            android:onClick="loginMethod"
+            android:text="Login" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

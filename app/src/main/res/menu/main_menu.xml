@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:icon="@drawable/ic_menu" android:orderInCategory="100"
+        android:title="Option Menu" app:showAsAction="always">
+        <menu>
+            <item android:id="@+id/itemSignup" android:icon="@drawable/ic_signup"
+                android:title="Employee Signup" />
+            <item android:id="@+id/itemAddCategory" android:icon="@drawable/ic_add"
+                android:title="Add Category" />
+            <item android:id="@+id/itemModifyCategory" android:icon="@drawable/ic_edit"
+                android:title="Modify Category" />
+            <item android:id="@+id/itemLogout" android:icon="@drawable/ic_logout"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>
