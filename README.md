@@ -1,4 +1,4 @@
-# CorporateExpenseManagement
+# Corporate Expense Management Application
 A streamlined system designed to facilitate the tracking of employee expenses, ensuring their timely reimbursement at the end of each month.
 
 It's important to note that the development of this application served as a practical exercise for the Mobile Application Module, a part of the Software Engineering course at Koya University. The application was crafted using Java and SQLite to demonstrate the skills and knowledge acquired throughout the course.
