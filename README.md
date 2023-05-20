@@ -9,7 +9,7 @@ It's important to note that the development of this application served as a prac
 3- They have the ability to set daily reminders, which will prompt them to input their expenses.
 
 ## Administrators, once authenticated, are granted access to the following features:
-a They can view a comprehensive list of all employees.
-b They can access a detailed history of employee expenses, presented in an illustrative pie chart format.
-c They have the ability to set daily reminders.
-d They are granted the authority to delete an employee's account if necessary.
+1- They can view a comprehensive list of all employees. <br />
+2- They can access a detailed history of employee expenses, presented in an illustrative pie chart format. <br />
+3- They have the ability to set daily reminders. <br />
+4- They are granted the authority to delete an employee's account if necessary. <br />
