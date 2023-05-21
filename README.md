@@ -13,3 +13,6 @@ It's important to note that the development of this application served as a prac
 2- They can access a detailed history of employee expenses, presented in an illustrative pie chart format. <br />
 3- They have the ability to set daily reminders. <br />
 4- They are granted the authority to delete an employee's account if necessary. <br />
+
+For a visual representation of what it looks like when you run, please refer to my portfolio:
+https://www.sakar.dev/projects/1
