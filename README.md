@@ -13,10 +13,12 @@
   
 
 ## Administrators, once authenticated, are granted access to the following features:
-- They can view a comprehensive list of all employees. <br />
-- They can access a detailed history of employee expenses, presented in an illustrative pie chart format. <br />
-- They have the ability to set daily reminders. <br />
-- They are granted the authority to delete an employee's account if necessary. <br />
+- They can view a comprehensive list of all employees.
+- They can access a detailed history of employee expenses, presented in an illustrative pie chart format.
+- They have the ability to set daily reminders.
+- Create, update category e.g. creating food category.
+- Create account for their employee
+- They are granted the authority to delete an employee's account if necessary.
 
 
 <section>
