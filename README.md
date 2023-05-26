@@ -19,6 +19,8 @@ Note: It's important to note that the development of this application served as 
 - They are granted the authority to delete an employee's account if necessary.
 
 # Visual representation:
+
+
 <ImageGroup>
 <img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/signup.png" />
 <img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/login.png" />
