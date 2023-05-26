@@ -18,6 +18,16 @@ Note: It's important to note that the development of this application served as 
 - Create account for their employee
 - They are granted the authority to delete an employee's account if necessary.
 
- For a visual representation of what it looks like when you run, please refer to my portfolio:
-https://www.sakar.dev/projects/1 
-
+# Visual representation:
+![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/signup.png)
+![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/login.png)
+![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/loggedInAdmin.png)
+![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/loggedInAdminMenu.png)
+![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/adminManagingUserAccount.png)
+![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/addCategory.png)
+![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/modifyCategory.png)
+![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/loggedInEmployee.png)
+![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/addExpense.png)
+![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/loggedInEmployeeMenu.png)
+![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/history.png)
+![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/setReminder.png)
