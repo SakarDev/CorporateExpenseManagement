@@ -20,16 +20,16 @@ Note: It's important to note that the development of this application served as 
 
 # Visual representation:
 <ImageGroup>
-![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/signup.png)
-![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/login.png)
-![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/loggedInAdmin.png)
-![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/loggedInAdminMenu.png)
-![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/adminManagingUserAccount.png)
-![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/addCategory.png)
-![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/modifyCategory.png)
-![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/loggedInEmployee.png)
-![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/addExpense.png)
-![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/loggedInEmployeeMenu.png)
-![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/history.png)
-![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/setReminder.png)
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/signup.png" />
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/login.png" />
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/loggedInAdmin.png" />
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/loggedInAdminMenu.png" />
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/adminManagingUserAccount.png" />
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/addCategory.png" />
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/modifyCategory.png" />
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/loggedInEmployee.png" />
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/addExpense.png" />
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/loggedInEmployeeMenu.png" />
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/history.png" />
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/setReminder.png" />
 </ImageGroup>
