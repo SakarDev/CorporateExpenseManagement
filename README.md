@@ -19,6 +19,7 @@ Note: It's important to note that the development of this application served as 
 - They are granted the authority to delete an employee's account if necessary.
 
 # Visual representation:
+<ImageGroup>
 ![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/signup.png)
 ![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/login.png)
 ![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/loggedInAdmin.png)
@@ -31,3 +32,4 @@ Note: It's important to note that the development of this application served as 
 ![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/loggedInEmployeeMenu.png)
 ![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/history.png)
 ![Input 0](https://raw.githubusercontent.com/SakarDev/CorporateExpenseManagement/master/images/setReminder.png)
+</ImageGroup>
